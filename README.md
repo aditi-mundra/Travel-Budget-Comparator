@@ -4,7 +4,7 @@ An analytical algorithmic toolkit and modular data visualization framework desig
 
 ## 📖 The Project 
 
-This engine was born out of a classic problem everyone runs into: **planning an holiday trip without breaking the bank.** .
+I made this project in my first year of college as a part of my academics. This engine was born out of a classic problem everyone runs into: **planning an holiday trip without breaking the bank.** 
 I wrote this application to systematically parse unstructured vacation data and eliminate the guesswork. By breaking financial data down into fundamental operational vectors (Transport, Accommodation, Food, Activities, and Miscellaneous costs), the system allows users to execute isolated cost-benefit matrices across arbitrary travel destinations.
 
 ## 🚀 Key Framework Capacities
